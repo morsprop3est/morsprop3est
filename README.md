@@ -1,5 +1,18 @@
-# Стек Технологій
+# Hi, I'm Mykola 👋
 
+🎨 **Trainee Frontend Developer & UX/UI Designer**  
+💡 **Ambitious • Creative • Eager to Learn**  
+
+---
+
+### 🌱 About Me:
+I'm a beginner in **frontend development** and **design**, always ready to take on new challenges and build amazing projects! My goal is to blend the world of **code** and **creativity** to make web experiences that are both beautiful and functional.
+
+---
+
+### 🔧 My Skill Set:
+
+#### Frontend Technologies:
 ![React](https://img.shields.io/badge/React-011627?style=for-the-badge&logo=react&logoColor=011627&labelColor=FF0022)
 ![Next](https://img.shields.io/badge/Next.js-011627?style=for-the-badge&logo=next.js&logoColor=011627&labelColor=FF0022)
 ![JavaScript](https://img.shields.io/badge/JavaScript-011627?style=for-the-badge&logo=javascript&logoColor=011627&labelColor=FF0022)
@@ -16,6 +29,24 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-011627?style=for-the-badge&logo=framer&logoColor=011627&labelColor=FF0022)
 ![MySQL](https://img.shields.io/badge/MySQL-011627?style=for-the-badge&logo=mysql&logoColor=011627&labelColor=FF0022)
 ![Postgres](https://img.shields.io/badge/Postgres-011627?style=for-the-badge&logo=postgresql&logoColor=011627&labelColor=FF0022)
+
+#### Design Tools:
 ![Figma](https://img.shields.io/badge/Figma-011627?style=for-the-badge&logo=figma&logoColor=011627&labelColor=FF0022)
 ![Photoshop](https://img.shields.io/badge/Photoshop-011627?style=for-the-badge&logo=adobe-photoshop&logoColor=011627&labelColor=FF0022)
 ![Illustrator](https://img.shields.io/badge/Illustrator-011627?style=for-the-badge&logo=adobe-illustrator&logoColor=011627&labelColor=FF0022)
+
+---
+
+### 💼 What I'm Looking For:
+I'm on the lookout for **internships**, **trainee positions**, or **freelance projects** to grow my skills and contribute to real-world projects. If you’re looking for an ambitious and creative beginner to join your team—let’s connect! 🤝
+
+---
+
+### 📫 Get in Touch:
+- 📧 **Email**: [omelwm92@gmail.com](mailto:omelwm92@gmail.com)
+- 💼 **LinkedIn**: [click](https://linkedin.com/in/mykola-o-76915b292)
+- 🌐 **Portfolio**: [click](https://googledisk)
+
+---
+
+Looking forward to collaborating and creating amazing experiences together! 😊
