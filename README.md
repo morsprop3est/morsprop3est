@@ -1,16 +1,21 @@
-## Hi there 👋
+# Стек Технологій
 
-<!--
-**morsprop3est/morsprop3est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-011627?style=for-the-badge&logo=react&logoColor=011627&labelColor=FF0022)
+![Next](https://img.shields.io/badge/Next.js-011627?style=for-the-badge&logo=next.js&logoColor=011627&labelColor=FF0022)
+![JavaScript](https://img.shields.io/badge/JavaScript-011627?style=for-the-badge&logo=javascript&logoColor=011627&labelColor=FF0022)
+![TypeScript](https://img.shields.io/badge/TypeScript-011627?style=for-the-badge&logo=typescript&logoColor=011627&labelColor=FF0022)
+![HTML](https://img.shields.io/badge/HTML5-011627?style=for-the-badge&logo=html5&logoColor=011627&labelColor=FF0022)
+![CSS](https://img.shields.io/badge/CSS3-011627?style=for-the-badge&logo=css3&logoColor=011627&labelColor=FF0022)
+![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-011627?style=for-the-badge&logo=sass&logoColor=011627&labelColor=FF0022)
+![Redux](https://img.shields.io/badge/Redux-011627?style=for-the-badge&logo=redux&logoColor=011627&labelColor=FF0022)
+![Axios](https://img.shields.io/badge/Axios-011627?style=for-the-badge&logo=axios&logoColor=011627&labelColor=FF0022)
+![React Router](https://img.shields.io/badge/React_Router-011627?style=for-the-badge&logo=react-router&logoColor=011627&labelColor=FF0022)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-011627?style=for-the-badge&logo=react-hook-form&logoColor=011627&labelColor=FF0022)
+![JWT](https://img.shields.io/badge/JWT-011627?style=for-the-badge&logo=json-web-tokens&logoColor=011627&labelColor=FF0022)
+![GIT](https://img.shields.io/badge/GIT-011627?style=for-the-badge&logo=git&logoColor=011627&labelColor=FF0022)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-011627?style=for-the-badge&logo=framer&logoColor=011627&labelColor=FF0022)
+![MySQL](https://img.shields.io/badge/MySQL-011627?style=for-the-badge&logo=mysql&logoColor=011627&labelColor=FF0022)
+![Postgres](https://img.shields.io/badge/Postgres-011627?style=for-the-badge&logo=postgresql&logoColor=011627&labelColor=FF0022)
+![Figma](https://img.shields.io/badge/Figma-011627?style=for-the-badge&logo=figma&logoColor=011627&labelColor=FF0022)
+![Photoshop](https://img.shields.io/badge/Photoshop-011627?style=for-the-badge&logo=adobe-photoshop&logoColor=011627&labelColor=FF0022)
+![Illustrator](https://img.shields.io/badge/Illustrator-011627?style=for-the-badge&logo=adobe-illustrator&logoColor=011627&labelColor=FF0022)
