@@ -45,7 +45,8 @@ I'm on the lookout for **internships**, **trainee positions**, or **freelance pr
 ### 📫 Get in Touch:
 - 📧 **Email**: [omelwm92@gmail.com](mailto:omelwm92@gmail.com)
 - 💼 **LinkedIn**: [click](https://linkedin.com/in/mykola-o-76915b292)
-- 🌐 **Portfolio**: [click](https://googledisk)
+- 🌐 **Portfolio**: [ua]([https://googledisk](https://drive.google.com/file/d/1Fk8dnLcGf_t1XbdEGX4oy0b1tPwAU7q3/view?usp=sharing)) [eng]([https://googledisk](https://drive.google.com/file/d/1C_EwLIbIV15jLgJp8AmEbhUdMm8Mx64x/view?usp=sharing))
+
 
 ---
 
