@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 About Me:
-I'm a beginner in **frontend development** and **design**, always ready to take on new challenges and build amazing projects! My goal is to blend the world of **code** and **creativity** to make web experiences that are both beautiful and functional.
+I'm into **frontend development** and **design** for a half of a year, always ready to take on new challenges and build different projects!
 
 ---
 
@@ -38,7 +38,7 @@ I'm a beginner in **frontend development** and **design**, always ready to take 
 ---
 
 ### 💼 What I'm Looking For:
-I'm on the lookout for **internships**, **trainee positions**, or **freelance projects** to grow my skills and contribute to real-world projects. If you’re looking for an ambitious and creative beginner to join your team—let’s connect! 🤝
+I'm on the lookout for **trainee/intern positions**, or **freelance projects** to upgrade my skills and contribute to real-world projects. If you’re looking for an ambitious and creative developer, I'm always ready for offers! 🤝
 
 ---
 
