@@ -1,18 +1,17 @@
 # Hi, I'm Mykola 👋
 
-🎨 **Trainee Frontend Developer & UX/UI Designer**  
+🎨 **Frontend Developer & UX/UI Designer**  
 💡 **Ambitious • Creative • Eager to Learn**  
 
 ---
 
 ### 🌱 About Me:
-I'm into **frontend development** and **design** for a half of a year, always ready to take on new challenges and build different projects!
+I'm into **frontend development** and **design** for a year, always ready to take on new challenges and build different projects!
 
 ---
 
 ### 🔧 My Skill Set:
 
-#### Frontend Technologies:
 ![React](https://img.shields.io/badge/React-010101?style=for-the-badge&logo=react&logoColor=010101&labelColor=c08edd)
 ![Next](https://img.shields.io/badge/Next.js-010101?style=for-the-badge&logo=next.js&logoColor=010101&labelColor=c08edd)
 ![JavaScript](https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=010101&labelColor=c08edd)
@@ -35,10 +34,15 @@ I'm into **frontend development** and **design** for a half of a year, always re
 ![Sequelize](https://img.shields.io/badge/Sequelize-010101?style=for-the-badge&logo=sequelize&logoColor=010101&labelColor=c08edd)
 ![Session](https://img.shields.io/badge/Session-010101?style=for-the-badge&logo=session&logoColor=010101&labelColor=c08edd)
 
+#### IDEs:
+![VS Code](https://img.shields.io/badge/VS_Code-010101?style=for-the-badge&logo=visualstudiocode&logoColor=010101&labelColor=c08edd)
+![WebStorm](https://img.shields.io/badge/WebStorm-010101?style=for-the-badge&logo=webstorm&logoColor=010101&labelColor=c08edd)
+
 #### Design Tools:
 ![Figma](https://img.shields.io/badge/Figma-010101?style=for-the-badge&logo=figma&logoColor=010101&labelColor=c08edd)
 ![Photoshop](https://img.shields.io/badge/Photoshop-010101?style=for-the-badge&logo=adobe-photoshop&logoColor=010101&labelColor=c08edd)
 ![Illustrator](https://img.shields.io/badge/Illustrator-010101?style=for-the-badge&logo=adobe-illustrator&logoColor=010101&labelColor=c08edd)
+
 
 
 ---
