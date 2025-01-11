@@ -13,27 +13,33 @@ I'm into **frontend development** and **design** for a half of a year, always re
 ### 🔧 My Skill Set:
 
 #### Frontend Technologies:
-![React](https://img.shields.io/badge/React-011627?style=for-the-badge&logo=react&logoColor=011627&labelColor=FF0022)
-![Next](https://img.shields.io/badge/Next.js-011627?style=for-the-badge&logo=next.js&logoColor=011627&labelColor=FF0022)
-![JavaScript](https://img.shields.io/badge/JavaScript-011627?style=for-the-badge&logo=javascript&logoColor=011627&labelColor=FF0022)
-![TypeScript](https://img.shields.io/badge/TypeScript-011627?style=for-the-badge&logo=typescript&logoColor=011627&labelColor=FF0022)
-![HTML](https://img.shields.io/badge/HTML5-011627?style=for-the-badge&logo=html5&logoColor=011627&labelColor=FF0022)
-![CSS](https://img.shields.io/badge/CSS3-011627?style=for-the-badge&logo=css3&logoColor=011627&labelColor=FF0022)
-![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-011627?style=for-the-badge&logo=sass&logoColor=011627&labelColor=FF0022)
-![Redux](https://img.shields.io/badge/Redux-011627?style=for-the-badge&logo=redux&logoColor=011627&labelColor=FF0022)
-![Axios](https://img.shields.io/badge/Axios-011627?style=for-the-badge&logo=axios&logoColor=011627&labelColor=FF0022)
-![React Router](https://img.shields.io/badge/React_Router-011627?style=for-the-badge&logo=react-router&logoColor=011627&labelColor=FF0022)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-011627?style=for-the-badge&logo=react-hook-form&logoColor=011627&labelColor=FF0022)
-![JWT](https://img.shields.io/badge/JWT-011627?style=for-the-badge&logo=json-web-tokens&logoColor=011627&labelColor=FF0022)
-![GIT](https://img.shields.io/badge/GIT-011627?style=for-the-badge&logo=git&logoColor=011627&labelColor=FF0022)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-011627?style=for-the-badge&logo=framer&logoColor=011627&labelColor=FF0022)
-![MySQL](https://img.shields.io/badge/MySQL-011627?style=for-the-badge&logo=mysql&logoColor=011627&labelColor=FF0022)
-![Postgres](https://img.shields.io/badge/Postgres-011627?style=for-the-badge&logo=postgresql&logoColor=011627&labelColor=FF0022)
+![React](https://img.shields.io/badge/React-010101?style=for-the-badge&logo=react&logoColor=010101&labelColor=c08edd)
+![Next](https://img.shields.io/badge/Next.js-010101?style=for-the-badge&logo=next.js&logoColor=010101&labelColor=c08edd)
+![JavaScript](https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=010101&labelColor=c08edd)
+![TypeScript](https://img.shields.io/badge/TypeScript-010101?style=for-the-badge&logo=typescript&logoColor=010101&labelColor=c08edd)
+![HTML](https://img.shields.io/badge/HTML5-010101?style=for-the-badge&logo=html5&logoColor=010101&labelColor=c08edd)
+![CSS](https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=010101&labelColor=c08edd)
+![SASS/SCSS](https://img.shields.io/badge/SASS/SCSS-010101?style=for-the-badge&logo=sass&logoColor=010101&labelColor=c08edd)
+![Redux](https://img.shields.io/badge/Redux-010101?style=for-the-badge&logo=redux&logoColor=010101&labelColor=c08edd)
+![Axios](https://img.shields.io/badge/Axios-010101?style=for-the-badge&logo=axios&logoColor=010101&labelColor=c08edd)
+![React Router](https://img.shields.io/badge/React_Router-010101?style=for-the-badge&logo=react-router&logoColor=010101&labelColor=c08edd)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-010101?style=for-the-badge&logo=react-hook-form&logoColor=010101&labelColor=c08edd)
+![JWT](https://img.shields.io/badge/JWT-010101?style=for-the-badge&logo=json-web-tokens&logoColor=010101&labelColor=c08edd)
+![GIT](https://img.shields.io/badge/GIT-010101?style=for-the-badge&logo=git&logoColor=010101&labelColor=c08edd)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-010101?style=for-the-badge&logo=framer&logoColor=010101&labelColor=c08edd)
+![MySQL](https://img.shields.io/badge/MySQL-010101?style=for-the-badge&logo=mysql&logoColor=010101&labelColor=c08edd)
+![Postgres](https://img.shields.io/badge/Postgres-010101?style=for-the-badge&logo=postgresql&logoColor=010101&labelColor=c08edd)
+
+#### Backend Tools:
+![Express](https://img.shields.io/badge/Express-010101?style=for-the-badge&logo=express&logoColor=010101&labelColor=c08edd)
+![Sequelize](https://img.shields.io/badge/Sequelize-010101?style=for-the-badge&logo=sequelize&logoColor=010101&labelColor=c08edd)
+![Session](https://img.shields.io/badge/Session-010101?style=for-the-badge&logo=session&logoColor=010101&labelColor=c08edd)
 
 #### Design Tools:
-![Figma](https://img.shields.io/badge/Figma-011627?style=for-the-badge&logo=figma&logoColor=011627&labelColor=FF0022)
-![Photoshop](https://img.shields.io/badge/Photoshop-011627?style=for-the-badge&logo=adobe-photoshop&logoColor=011627&labelColor=FF0022)
-![Illustrator](https://img.shields.io/badge/Illustrator-011627?style=for-the-badge&logo=adobe-illustrator&logoColor=011627&labelColor=FF0022)
+![Figma](https://img.shields.io/badge/Figma-010101?style=for-the-badge&logo=figma&logoColor=010101&labelColor=c08edd)
+![Photoshop](https://img.shields.io/badge/Photoshop-010101?style=for-the-badge&logo=adobe-photoshop&logoColor=010101&labelColor=c08edd)
+![Illustrator](https://img.shields.io/badge/Illustrator-010101?style=for-the-badge&logo=adobe-illustrator&logoColor=010101&labelColor=c08edd)
+
 
 ---
 
